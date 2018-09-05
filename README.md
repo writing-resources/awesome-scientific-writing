@@ -27,8 +27,11 @@ document**.<br/>
     Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc markdown flavour :bookmark:
     :link: **Σ**.
+- [bookbook](https://github.com/takluyver/bookbook): An experimental Python
+    package which extends `nbconvert` and adds the ability to cross reference
+    within and across notebooks :link: **Σ**.
 - [bookdown](https://github.com/rstudio/bookdown): R package to facilitate
-    writing books and long-form articles/reports with R Markdown. :gem:
+    writing books and long-form articles/reports with R Markdown :gem:
     :bookmark: :link: **Σ**.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
@@ -44,9 +47,17 @@ document**.<br/>
     Markdown flavour :bookmark: :link: **Σ**.
 
 ### Demos
+> Demos can include working examples, tutorials, videos demonstrating how to
+> generate articles and presentations for scientific purposes.
+
 #### Articles
 - [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
     example of a book based on R Markdown and bookdown.
+- [Book on Riemann solvers](http://github.com/clawpack/riemann_book) - This
+    example uses a custom `nbconvert` template and shows how to store your
+    notebooks with no output (for version control) while automatically executing
+    them before running `bookbook`, so that PDF and HTML versions include the
+    output.
 - [Katrin Leinweber's Ph.D.
     thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
     workflow involving several tools, but primarily Pandoc, `latexmk` and
@@ -72,6 +83,7 @@ document**.<br/>
     presentations using Pandoc.
 
 ### Resources
+> Supplymentary files required to convert from one format to another.
 - [Citation Style Language
     (CSL) styles](https://github.com/citation-style-language) - Official
     repository for Citation Style Language (CSL) styles, required by Pandoc.
