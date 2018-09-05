@@ -2,9 +2,9 @@
 
 Scientific writing can extend beyond LaTeX, made possible by formats,
 such as
-[Markdown](),
+[Markdown](https://commonmark.org/) (and its many flavours),
 [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
-[Jupyter notebooks](https://jupyter.org).
+[Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
 :gem: means **really _awesome/useful_**.<br />
 :bookmark: means ability to **seamlessly cite references**.<br/>
@@ -54,7 +54,7 @@ such as
 - [slides](https://github.com/cgroll/slides) - Demo for generating `reveal.js`
     presentations using Pandoc.
 - [Writing a  Book With Vim, Restructured Text, and Sphinx](https://www.tompurl.com/2012-11-22-writing-a-book-with-vim.html) - An blog post describing the
-    workflow for writing a book.
+    workflow for writing a book using reStructuredText.
 
 #### Websites
 - [Compiling a website using Pandoc](http://glines.net/articles/pandoc.html) -
