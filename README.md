@@ -28,7 +28,8 @@ document**.<br/>
     elements, making it a superset of Pandoc markdown flavour :bookmark:
     :link: **Σ**.
 - [bookdown](https://github.com/rstudio/bookdown): R package to facilitate
-    writing books and long-form articles/reports with R Markdown.
+    writing books and long-form articles/reports with R Markdown. :gem:
+    :bookmark: :link: **Σ**.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
     tools to do it :link: **Σ**.
@@ -50,9 +51,9 @@ document**.<br/>
     thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
     workflow involving several tools, but primarily Pandoc, `latexmk` and
     AcademicMarkdown.
-- [Pandoc Markdown-Latex
-    Boilerplate](https://github.com/davecap/markdown-latex-boilerplate/#readme)
-    - Demonstrate how to integrate Pandoc with an existing LaTeX template which
+- [Pandoc Markdown-Latex Boilerplate
+    ](https://github.com/davecap/markdown-latex-boilerplate/#readme) -
+    Demonstrate how to integrate Pandoc with an existing LaTeX template which
     requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
     `latexmk` dependency.
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
