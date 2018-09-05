@@ -1,6 +1,6 @@
 # awesome-scientific-writing [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
-Scientific writing can extend beyond $\LaTeX$, made possible by formats,
+Scientific writing can extend beyond LaTeX, made possible by formats,
 such as
 [Markdown](),
 [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
@@ -9,7 +9,7 @@ such as
 :gem: means **really _awesome/useful_**.<br />
 :bookmark: means ability to **seamlessly cite references**.<br/>
 :link: means ability to **refer figures and sections within document**.<br/>
-:1234: means ability to write equations in $\LaTeX$.<br/>
+:1234: means ability to write equations in LaTeX.<br/>
 
 ## Contents
 - [Converters](#converters)
@@ -20,7 +20,7 @@ such as
 - [Other Awesome Lists](#other-awesome-lists)
 
 ### Converters
-> Converters which can generate $\LaTeX$, HTML or PDF output on demand.
+> Converters which can generate LaTeX, HTML or PDF output on demand.
 
 - [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
@@ -30,7 +30,7 @@ such as
     Markdown flavour :bookmark: :link: :1234:.
 - [academicmarkdown](https://github.com/smathot/academicmarkdown#readme): A
     Python wrapper over Pandoc with specialized extensions certain elements,
-    making it a superset of Pandoc flavoured markdown.
+    making it a superset of Pandoc flavoured markdown :bookmark: :link: :1234:.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
     tools to do it :link: :1234:.
