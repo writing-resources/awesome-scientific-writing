@@ -22,31 +22,35 @@ such as
 ### Converters
 > Converters which can generate LaTeX, HTML or PDF output on demand.
 
-- [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
-    one markup format to another, and a command-line tool that uses this
-    library :gem: :bookmark: :link: :1234:.
-- [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
-    reference implementation for ScholarlyMarkdown, a superset of Pandoc
-    Markdown flavour :bookmark: :link: :1234:.
 - [academicmarkdown](https://github.com/smathot/academicmarkdown#readme): A
-    Python wrapper over Pandoc with specialized extensions certain elements,
-    making it a superset of Pandoc flavoured markdown :bookmark: :link: :1234:.
+    Python wrapper over Pandoc with specialized extensions to parse certain
+    elements, making it a superset of Pandoc flavoured markdown :bookmark:
+    :link: :1234:.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
     tools to do it :link: :1234:.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
     notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
     reStructuredText and more :1234:.
+- [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
+    one markup format to another, and a command-line tool that uses this
+    library :gem: :bookmark: :link: :1234:.
+- [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
+    reference implementation for ScholarlyMarkdown, a superset of Pandoc
+    Markdown flavour :bookmark: :link: :1234:.
 
 ### Demos
 #### Articles and presentations
-- [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
-    An example for use of Markdown for scientific publications using Pandoc and
-    `latexmk`.
 - [Katrin Leinweber's Ph.D.
     thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - An
     automated workflow involving several tools, but primarily Pandoc, `latexmk`
     and AcademicMarkdown.
+- [pandoc-starter](https://github.com/jez/pandoc-starter) - Templates for
+    articles, beamer presentations etc. using Markdown files and Makefiles for
+    getting started with Pandoc.
+- [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
+    An example for use of Markdown for scientific publications using Pandoc and
+    `latexmk` :gem:.
 - [slides](https://github.com/cgroll/slides) - Demo for generating `reveal.js`
     presentations using Pandoc.
 - [Writing a  Book With Vim, Restructured Text, and Sphinx](https://www.tompurl.com/2012-11-22-writing-a-book-with-vim.html) - An blog post describing the
