@@ -9,7 +9,7 @@ such as
 :gem: means **really _awesome/useful_**.<br />
 :bookmark: means ability to **seamlessly cite references**.<br/>
 :link: means ability to **refer figures and sections within document**.<br/>
-:1234: means ability to **write equations in LaTeX**.<br/>
+**Σ** means ability to **write equations in LaTeX**.<br/>
 
 ## Contents
 - [Converters](#converters)
@@ -25,19 +25,19 @@ such as
 - [academicmarkdown](https://github.com/smathot/academicmarkdown#readme): A
     Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc markdown flavour :bookmark:
-    :link: :1234:.
+    :link: **Σ**.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
-    tools to do it :link: :1234:.
+    tools to do it :link: **Σ**.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
     notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
-    reStructuredText and more :1234:.
+    reStructuredText and more **Σ**.
 - [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
-    library :gem: :bookmark: :link: :1234:.
+    library :gem: :bookmark: :link: **Σ**.
 - [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
     reference implementation for ScholarlyMarkdown, a superset of Pandoc
-    Markdown flavour :bookmark: :link: :1234:.
+    Markdown flavour :bookmark: :link: **Σ**.
 
 ### Demos
 #### Articles
