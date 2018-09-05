@@ -8,7 +8,8 @@ such as
 
 :gem: means **really _awesome/useful_**.<br />
 :bookmark: means ability to **seamlessly cite references**.<br/>
-:link: means ability to **refer figures and sections within document**.<br/>
+:link: means ability to **cross-reference figures and sections within the
+document**.<br/>
 **Σ** means ability to **write equations in LaTeX**.<br/>
 
 ## Contents
@@ -26,6 +27,8 @@ such as
     Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc markdown flavour :bookmark:
     :link: **Σ**.
+- [bookdown](https://github.com/rstudio/bookdown): R package to facilitate
+    writing books and long-form articles/reports with R Markdown.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
     tools to do it :link: **Σ**.
@@ -41,10 +44,17 @@ such as
 
 ### Demos
 #### Articles
+- [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
+    example of a book based on R Markdown and bookdown.
 - [Katrin Leinweber's Ph.D.
-    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - An
-    automated workflow involving several tools, but primarily Pandoc, `latexmk`
-    and AcademicMarkdown.
+    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
+    workflow involving several tools, but primarily Pandoc, `latexmk` and
+    AcademicMarkdown.
+- [Pandoc Markdown-Latex
+    Boilerplate](https://github.com/davecap/markdown-latex-boilerplate/#readme)
+    - Demonstrate how to integrate Pandoc with an existing LaTeX template which
+    requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
+    `latexmk` dependency.
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
     An example for use of Markdown for scientific publications using Pandoc and
     `latexmk` :gem:.
