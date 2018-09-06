@@ -39,9 +39,9 @@ document**.<br/>
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
     notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
     reStructuredText and more **Σ**.
-- [org-mode](https://orgmode.org) - Powerful Emacs package for keeping notes,
-    maintaining TODO lists, planning projects, and authoring documents in a
-    plain text format called `Org` :gem: :bookmark: :link: **Σ**.
+- [org-mode](https://orgmode.org) - Powerful Emacs package for authoring notes,
+    TODO lists, spreadsheets, documents, executable code-blocks and a lot more
+    in a plain text format called Org :gem: :bookmark: :link: **Σ**.
 - [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
     library :gem: :bookmark: :link: **Σ**.
@@ -63,7 +63,7 @@ document**.<br/>
     output.
 - [Katrin Leinweber's Ph.D.
     thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
-    workflow involving several tools, but primarily Pandoc, `latexmk` and
+    work flow involving several tools, but primarily Pandoc, `latexmk` and
     AcademicMarkdown.
 - [Pandoc Markdown-Latex Boilerplate
     ](https://github.com/davecap/markdown-latex-boilerplate/#readme) -
@@ -79,7 +79,7 @@ document**.<br/>
     commands within Org-mode.
 - [Writing a  Book With Vim, Restructured Text, and
     Sphinx](https://www.tompurl.com/2012-11-22-writing-a-book-with-vim.html) - A
-    blog post describing the workflow for writing a book with
+    blog post describing the work flow for writing a book with
     reStructuredText.
 
 #### Presentations
@@ -90,7 +90,7 @@ document**.<br/>
     presentations using Pandoc.
 
 ### Resources
-> Supplymentary files required to convert from one format to another.
+> Supplementary files required to convert from one format to another.
 - [Citation Style Language
     (CSL) styles](https://github.com/citation-style-language) - Official
     repository for Citation Style Language (CSL) styles, required by Pandoc.
@@ -106,6 +106,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Ashwin Vishnu has waived all copyright
-and related or neighboring rights to this work. See [LICENSE](LICENSE).
+and related or neighbouring rights to this work. See [LICENSE](LICENSE).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
