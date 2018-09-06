@@ -39,6 +39,9 @@ document**.<br/>
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
     notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
     reStructuredText and more **Σ**.
+- [org-mode](https://orgmode.org) - Powerful Emacs package for keeping notes,
+    maintaining TODO lists, planning projects, and authoring documents in a
+    plain text format called `Org` :gem: :bookmark: :link: **Σ**.
 - [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
     library :gem: :bookmark: :link: **Σ**.
@@ -70,6 +73,10 @@ document**.<br/>
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
     An example for use of Markdown for scientific publications using Pandoc and
     `latexmk` :gem:.
+- [Writing scientific papers for ACPD using Emacs Org-mode
+    ](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) -
+    Detailed tutorial on authoring a paper by seamlessly integrating with LaTeX
+    commands within Org-mode.
 - [Writing a  Book With Vim, Restructured Text, and
     Sphinx](https://www.tompurl.com/2012-11-22-writing-a-book-with-vim.html) - A
     blog post describing the workflow for writing a book with
