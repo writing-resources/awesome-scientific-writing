@@ -48,6 +48,10 @@ document**.<br/>
 - [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
     reference implementation for ScholarlyMarkdown, a superset of Pandoc
     Markdown flavour :bookmark: :link: **Σ**.
+- [ipypublish](https://github.com/chrisjsewell/ipypublish): A workflow for
+    creating and editing publication ready scientific reports and presentations,
+    from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
+    :link: **Σ**.
 
 ### Demos
 > Demos can include working examples, tutorials, videos demonstrating how to
