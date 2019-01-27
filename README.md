@@ -1,4 +1,4 @@
- Awesome Scientific Writing [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
+# Awesome Scientific Writing [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
 Scientific writing can extend beyond LaTeX, made possible by formats,
 such as
