@@ -1,4 +1,4 @@
-# Awesome Scientific Writing [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
+ Awesome Scientific Writing [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
 Scientific writing can extend beyond LaTeX, made possible by formats,
 such as
@@ -6,7 +6,7 @@ such as
 [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
 [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
-:gem: means **really _awesome/useful_**.<br />
+:star: means **really _awesome/useful_**.<br />
 :bookmark: means ability to **seamlessly cite references**.<br/>
 :link: means ability to **cross-reference figures and sections within the
 document**.<br/>
@@ -31,7 +31,7 @@ document**.<br/>
     package which extends `nbconvert` and adds the ability to cross reference
     within and across notebooks :link: **Σ**.
 - [bookdown](https://github.com/rstudio/bookdown/#readme): R package to facilitate
-    writing books and long-form articles/reports with R Markdown :gem:
+    writing books and long-form articles/reports with R Markdown :star:
     :bookmark: :link: **Σ**.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
@@ -41,10 +41,10 @@ document**.<br/>
     reStructuredText and more **Σ**.
 - [org-mode](https://orgmode.org) - Powerful Emacs package for authoring notes,
     TODO lists, spreadsheets, documents, executable code-blocks and a lot more
-    in a plain text format called Org :gem: :bookmark: :link: **Σ**.
+    in a plain text format called Org :star: :bookmark: :link: **Σ**.
 - [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
-    library :gem: :bookmark: :link: **Σ**.
+    library :star: :bookmark: :link: **Σ**.
 - [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
     reference implementation for ScholarlyMarkdown, a superset of Pandoc
     Markdown flavour :bookmark: :link: **Σ**.
@@ -76,7 +76,7 @@ document**.<br/>
     `latexmk` dependency.
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
     An example for use of Markdown for scientific publications using Pandoc and
-    `latexmk` :gem:.
+    `latexmk` :star:.
 - [Writing scientific papers for ACPD using Emacs Org-mode
     ](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) -
     Detailed tutorial on authoring a paper by seamlessly integrating with LaTeX
