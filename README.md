@@ -27,10 +27,10 @@ document**.<br/>
     Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc markdown flavour :bookmark:
     :link: **Σ**.
-- [bookbook](https://github.com/takluyver/bookbook): An experimental Python
+- [bookbook](https://github.com/takluyver/bookbook/#readme): An experimental Python
     package which extends `nbconvert` and adds the ability to cross reference
     within and across notebooks :link: **Σ**.
-- [bookdown](https://github.com/rstudio/bookdown): R package to facilitate
+- [bookdown](https://github.com/rstudio/bookdown/#readme): R package to facilitate
     writing books and long-form articles/reports with R Markdown :gem:
     :bookmark: :link: **Σ**.
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
@@ -48,7 +48,7 @@ document**.<br/>
 - [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
     reference implementation for ScholarlyMarkdown, a superset of Pandoc
     Markdown flavour :bookmark: :link: **Σ**.
-- [ipypublish](https://github.com/chrisjsewell/ipypublish): A workflow for
+- [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme): A workflow for
     creating and editing publication ready scientific reports and presentations,
     from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
     :link: **Σ**.
@@ -60,7 +60,7 @@ document**.<br/>
 #### Articles
 - [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
     example of a book based on R Markdown and bookdown.
-- [Book on Riemann solvers](http://github.com/clawpack/riemann_book) - This
+- [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - This
     example uses a custom `nbconvert` template and shows how to store your
     notebooks with no output (for version control) while automatically executing
     them before running `bookbook`, so that PDF and HTML versions include the
@@ -87,16 +87,16 @@ document**.<br/>
     reStructuredText.
 
 #### Presentations
-- [pandoc-starter](https://github.com/jez/pandoc-starter) - Templates for
+- [pandoc-starter](https://github.com/jez/pandoc-starter/#readme) - Templates for
     articles, beamer presentations etc. using Markdown files and Makefiles for
     getting started with Pandoc.
-- [slides](https://github.com/cgroll/slides) - Demo for generating `reveal.js`
+- [slides](https://github.com/cgroll/slides/#readme) - Demo for generating `reveal.js`
     presentations using Pandoc.
 
 ### Resources
 > Supplementary files required to convert from one format to another.
 - [Citation Style Language
-    (CSL) styles](https://github.com/citation-style-language) - Official
+    (CSL) styles](https://github.com/citation-style-language/#readme) - Official
     repository for Citation Style Language (CSL) styles, required by Pandoc.
 
 ### Other Awesome Lists
@@ -107,7 +107,7 @@ document**.<br/>
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Ashwin Vishnu has waived all copyright
 and related or neighbouring rights to this work. See [LICENSE](LICENSE).
