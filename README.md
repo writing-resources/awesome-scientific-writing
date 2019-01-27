@@ -100,6 +100,7 @@ document**.<br/>
     repository for Citation Style Language (CSL) styles, required by Pandoc.
 
 ### Other Awesome Lists
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 
