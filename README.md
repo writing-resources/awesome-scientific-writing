@@ -77,6 +77,10 @@ document**.<br/>
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
     An example for use of Markdown for scientific publications using Pandoc and
     `latexmk` :star:.
+- [Template for writing a PhD thesis in
+  Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - A clean
+    organization of files to provide a framework for writing a PhD thesis in
+    mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.
 - [Writing scientific papers for ACPD using Emacs Org-mode
     ](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) -
     Detailed tutorial on authoring a paper by seamlessly integrating with LaTeX
