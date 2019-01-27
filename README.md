@@ -1,10 +1,10 @@
 # Awesome Scientific Writing [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
-Scientific writing can extend beyond LaTeX, made possible by formats,
-such as
-[Markdown](https://commonmark.org/) (and its many flavours),
-[reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
-[Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
+> Scientific writing can extend beyond LaTeX, made possible by formats,
+> such as
+> [Markdown](https://commonmark.org/) (and its many flavours),
+> [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
+> [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
 :star: means **really _awesome/useful_**.<br />
 :bookmark: means ability to **seamlessly cite references**.<br/>
@@ -95,9 +95,9 @@ document**.<br/>
 
 ### Resources
 > Supplementary files required to convert from one format to another.
-- [Citation Style Language
-    (CSL) styles](https://github.com/citation-style-language/#readme) - Official
-    repository for Citation Style Language (CSL) styles, required by Pandoc.
+
+- [Citation Style Language (CSL) styles](https://citationstyles.org/) -  A
+  crowdsourced repository with over 9000 free CSL citation styles.
 
 ### Other Awesome Lists
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
