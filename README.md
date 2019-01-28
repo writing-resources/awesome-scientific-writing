@@ -36,6 +36,10 @@ document**.<br/>
 - [docutils](http://docutils.sourceforge.net/docs/): Python package which can
     convert reStructuredText into various formats and provides command-line
     tools to do it :link: **Σ**.
+- [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme): A workflow for
+    creating and editing publication ready scientific reports and presentations,
+    from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
+    :link: **Σ**.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
     notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
     reStructuredText and more **Σ**.
@@ -48,10 +52,6 @@ document**.<br/>
 - [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
     reference implementation for ScholarlyMarkdown, a superset of Pandoc
     Markdown flavour :bookmark: :link: **Σ**.
-- [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme): A workflow for
-    creating and editing publication ready scientific reports and presentations,
-    from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
-    :link: **Σ**.
 
 ### Demos
 > Demos can include working examples, tutorials, videos demonstrating how to
@@ -104,8 +104,8 @@ document**.<br/>
   crowdsourced repository with over 9000 free CSL citation styles.
 
 ### Other Awesome Lists
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 
 ## Contribute
