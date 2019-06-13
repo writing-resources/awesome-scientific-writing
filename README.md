@@ -13,7 +13,8 @@ document**.<br/>
 **Σ** means ability to **write equations in LaTeX**.<br/>
 
 ## Contents
-* [Bibliography](#bibliography)
+
+- [Bibliography](#bibliography)
 - [Converters](#converters)
 - [Demos](#demos)
     - [Articles](#articles)
@@ -108,18 +109,18 @@ document**.<br/>
 ### Extras
 > Supplementary files and tools.
 
-* [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) -
+- [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) -
   Enhanced exporting tool for Zotero.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) -  A
   crowdsourced repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
   with vim integration which uses fzf (a fuzzy finder implemented in Go).
-* [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
+- [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
   to John MacFarlane’s pandocfilters.
-* [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) - 
+- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) - 
   Pandoc integration and utilities for vim
-* [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) -
+- [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) -
   Lightweight rendering of pandoc syntax in Vim.
 
 ### Other Awesome Lists
