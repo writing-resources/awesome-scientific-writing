@@ -13,12 +13,20 @@ document**.<br/>
 **Σ** means ability to **write equations in LaTeX**.<br/>
 
 ## Contents
+* [Bibliography](#bibliography)
 - [Converters](#converters)
 - [Demos](#demos)
     - [Articles](#articles)
     - [Presentations](#presentations)
 - [Resources](#resources)
 - [Other Awesome Lists](#other-awesome-lists)
+
+### Bibliography
+> Bibliography managers to generate citations / BibTeX / BibLaTeX files.
+
+* [Zotero](https://www.zotero.org/): FOSS tool to collect, organize, cite, and
+  share research.
+
 
 ### Converters
 > Converters which can generate LaTeX, HTML or PDF output on demand.
@@ -97,11 +105,22 @@ document**.<br/>
 - [slides](https://github.com/cgroll/slides/#readme) - Demo for generating `reveal.js`
     presentations using Pandoc.
 
-### Resources
-> Supplementary files required to convert from one format to another.
+### Extras
+> Supplementary files and tools.
 
-- [Citation Style Language (CSL) styles](https://citationstyles.org/) -  A
-  crowdsourced repository with over 9000 free CSL citation styles.
+* [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) -
+  Enhanced exporting tool for Zotero.
+- [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) -  A
+  crowdsourced repository with over 9000 free CSL citation styles and an online
+  editor to create new ones.
+- [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
+  with vim integration which uses fzf (a fuzzy finder implemented in Go).
+* [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
+  to John MacFarlane’s pandocfilters.
+* [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) - 
+  Pandoc integration and utilities for vim
+* [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) -
+  Lightweight rendering of pandoc syntax in Vim.
 
 ### Other Awesome Lists
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
