@@ -19,7 +19,8 @@ document**.<br/>
 - [Demos](#demos)
     - [Articles](#articles)
     - [Presentations](#presentations)
-- [Resources](#resources)
+- [Extras](#extras)
+- [Linters](#linters)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ### Bibliography
@@ -122,6 +123,21 @@ document**.<br/>
   Pandoc integration and utilities for vim
 - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) -
   Lightweight rendering of pandoc syntax in Vim.
+
+### Linters
+> Check grammar, spelling and language.
+
+- [LanguageTool](https://languagetool.org/) - Open source grammar, style and
+  spell Checker.
+- [proselint](http://proselint.com/) - A linter for prose.
+- [textlint](https://textlint.github.io/) - The pluggable linting tool for text
+  and markdown.
+- [textidote](https://sylvainhalle.github.io/textidote) - Spelling, grammar and
+  style checking on LaTeX documents.
+- [Vale](https://errata-ai.github.io/vale/) - A free, open-source linter for
+  prose built with speed and extensibility in mind.
+- [write-good](https://github.com/btford/write-good) - Naive linter for English
+  prose.
 
 ### Other Awesome Lists
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
