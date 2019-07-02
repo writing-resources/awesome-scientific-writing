@@ -117,6 +117,9 @@ document**.<br/>
   editor to create new ones.
 - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
   with vim integration which uses fzf (a fuzzy finder implemented in Go).
+* [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
+  addons to pandoc which implement extra features such as citations and
+  cross-references.
 - [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
   to John MacFarlane’s pandocfilters.
 - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) - 
