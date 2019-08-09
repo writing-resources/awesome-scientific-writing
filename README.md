@@ -85,8 +85,12 @@ document**.<br/>
     requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
     `latexmk` dependency.
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
-    An example for use of Markdown for scientific publications using Pandoc and
+    Example for use of Markdown for scientific publications using Pandoc and
     `latexmk` :star:.
+- [Teaching and learning with
+    Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) -
+    Book written in R Markdown, bookdown and also rendered as HTML, PDF and
+    EPUB.
 - [Template for writing a PhD thesis in
   Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - A clean
     organization of files to provide a framework for writing a PhD thesis in
@@ -122,7 +126,7 @@ document**.<br/>
   cross-references.
 - [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
   to John MacFarlane’s pandocfilters.
-- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) - 
+- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) -
   Pandoc integration and utilities for vim
 - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) -
   Lightweight rendering of pandoc syntax in Vim.
