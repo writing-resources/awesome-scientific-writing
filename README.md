@@ -26,27 +26,27 @@ document**.<br/>
 ### Bibliography
 > Bibliography managers to generate citations / BibTeX / BibLaTeX files.
 
-* [Zotero](https://www.zotero.org/): FOSS tool to collect, organize, cite, and
+- [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
 
 
 ### Converters
 > Converters which can generate LaTeX, HTML or PDF output on demand.
 
-- [academicmarkdown](https://github.com/smathot/academicmarkdown#readme): A
+- [academicmarkdown](https://github.com/smathot/academicmarkdown#readme) - A
     Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc markdown flavour :bookmark:
     :link: **Σ**.
-- [bookbook](https://github.com/takluyver/bookbook/#readme): An experimental Python
+- [bookbook](https://github.com/takluyver/bookbook/#readme) - An experimental Python
     package which extends `nbconvert` and adds the ability to cross reference
     within and across notebooks :link: **Σ**.
-- [bookdown](https://github.com/rstudio/bookdown/#readme): R package to facilitate
+- [bookdown](https://github.com/rstudio/bookdown/#readme) - R package to facilitate
     writing books and long-form articles/reports with R Markdown :star:
     :bookmark: :link: **Σ**.
-- [docutils](http://docutils.sourceforge.net/docs/): Python package which can
+- [docutils](http://docutils.sourceforge.net/docs/) - Python package which can
     convert reStructuredText into various formats and provides command-line
     tools to do it :link: **Σ**.
-- [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme): A workflow for
+- [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - A workflow for
     creating and editing publication ready scientific reports and presentations,
     from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
     :link: **Σ**.
@@ -56,10 +56,10 @@ document**.<br/>
 - [org-mode](https://orgmode.org) - Powerful Emacs package for authoring notes,
     TODO lists, spreadsheets, documents, executable code-blocks and a lot more
     in a plain text format called Org :star: :bookmark: :link: **Σ**.
-- [pandoc](https://pandoc.org/MANUAL): A Haskell library for converting from
+- [pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
     library :star: :bookmark: :link: **Σ**.
-- [scholdoc](http://scholdoc.scholarlymarkdown.com/): A fork of Pandoc and the
+- [scholdoc](http://scholdoc.scholarlymarkdown.com/) - A fork of Pandoc and the
     reference implementation for ScholarlyMarkdown, a superset of Pandoc
     Markdown flavour :bookmark: :link: **Σ**.
 
@@ -79,12 +79,12 @@ document**.<br/>
     thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
     work flow involving several tools, but primarily Pandoc, `latexmk` and
     AcademicMarkdown.
-- [Pandoc Markdown-Latex Boilerplate
+- [Pandoc Markdown-Latex
     ](https://github.com/davecap/markdown-latex-boilerplate/#readme) -
     Demonstrate how to integrate Pandoc with an existing LaTeX template which
     requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
     `latexmk` dependency.
-- [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) -
+- [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) - Example
     Example for use of Markdown for scientific publications using Pandoc and
     `latexmk` :star:.
 - [Teaching and learning with
@@ -95,7 +95,7 @@ document**.<br/>
   Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - A clean
     organization of files to provide a framework for writing a PhD thesis in
     mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.
-- [Writing scientific papers for ACPD using Emacs Org-mode
+- [Writing scientific papers for ACPD using Emacs
     ](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) -
     Detailed tutorial on authoring a paper by seamlessly integrating with LaTeX
     commands within Org-mode.
@@ -114,21 +114,21 @@ document**.<br/>
 ### Extras
 > Supplementary files and tools.
 
-- [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) -
+- [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
   Enhanced exporting tool for Zotero.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) -  A
   crowdsourced repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
   with vim integration which uses fzf (a fuzzy finder implemented in Go).
-* [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
+- [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
   addons to pandoc which implement extra features such as citations and
   cross-references.
 - [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
   to John MacFarlane’s pandocfilters.
-- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) -
+- [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) - Pandoc
   Pandoc integration and utilities for vim
-- [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) -
+- [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) - Lightweight
   Lightweight rendering of pandoc syntax in Vim.
 
 ### Linters
@@ -139,7 +139,7 @@ document**.<br/>
 - [proselint](http://proselint.com/) - A linter for prose.
 - [textlint](https://textlint.github.io/) - The pluggable linting tool for text
   and markdown.
-- [textidote](https://sylvainhalle.github.io/textidote) - Spelling, grammar and
+- [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
   style checking on LaTeX documents.
 - [Vale](https://errata-ai.github.io/vale/) - A free, open-source linter for
   prose built with speed and extensibility in mind.
