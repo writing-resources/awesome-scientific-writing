@@ -1,0 +1,3 @@
+steps:
+  - uses: actions/checkout@v1.0.0
+  - uses: max/awesome-lint@v2.0.0
