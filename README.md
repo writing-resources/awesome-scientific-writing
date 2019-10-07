@@ -59,9 +59,6 @@ document**.<br/>
 - [pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
    one markup format to another, and a command-line tool that uses this
    library :star: :bookmark: :link: **Σ**.
-- [scholdoc](http://scholdoc.scholarlymarkdown.com/) - A fork of Pandoc and the
-   reference implementation for ScholarlyMarkdown, a superset of Pandoc
-   Markdown flavour :bookmark: :link: **Σ**.
 
 ## Demos
  Demos can include working examples, tutorials, videos demonstrating how to
