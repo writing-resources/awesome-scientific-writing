@@ -6,9 +6,9 @@
 > [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
 > [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
-:star: - means **really _awesome/useful_**.<br />
-:bookmark: - means ability to **seamlessly cite references**.<br/>
-:link: - means ability to **cross-reference figures and sections within the
+:star: means **really _awesome/useful_**.<br />
+:bookmark: means ability to **seamlessly cite references**.<br/>
+:link: means ability to **cross-reference figures and sections within the
 document**.<br/>
 **Σ** means ability to **write equations in LaTeX**.<br/>
 
