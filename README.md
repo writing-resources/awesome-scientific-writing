@@ -6,9 +6,9 @@
 > [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
 > [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
-:star: - means **really _awesome/useful_**.<br />
-:bookmark: - means ability to **seamlessly cite references**.<br/>
-:link: - means ability to **cross-reference figures and sections within the
+:star: means **really _awesome/useful_**.<br />
+:bookmark: means ability to **seamlessly cite references**.<br/>
+:link: means ability to **cross-reference figures and sections within the
 document**.<br/>
 **Σ** means ability to **write equations in LaTeX**.<br/>
 
@@ -59,9 +59,6 @@ document**.<br/>
 - [pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
    one markup format to another, and a command-line tool that uses this
    library :star: :bookmark: :link: **Σ**.
-- [scholdoc](http://scholdoc.scholarlymarkdown.com/) - A fork of Pandoc and the
-   reference implementation for ScholarlyMarkdown, a superset of Pandoc
-   Markdown flavour :bookmark: :link: **Σ**.
 
 ## Demos
  Demos can include working examples, tutorials, videos demonstrating how to
