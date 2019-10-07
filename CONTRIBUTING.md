@@ -8,13 +8,17 @@ project you agree to abide by its terms.
 
 Before sending a pull request, make sure that:
 
+- if the entry is a software, it should be maintained (at least a commit / a
+  release in the past 3 years),
 - the contents are sorted alphabetically,
-- the tests pass:
+- the tests pass (either on the CI or locally),
 
-  ```bash
-  gem install awesome_bot
-  awesome_bot README.md
-  ```
+      # using ruby
+      gem install awesome_bot
+      awesome_bot README.md
+      # using node.js
+      npm install -g awesome-lint
+      awesome-lint README.md
 
 Thank you for your suggestions!
 
