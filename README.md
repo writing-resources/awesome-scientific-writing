@@ -50,6 +50,9 @@ document**.<br/>
    creating and editing publication ready scientific reports and presentations,
    from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
    :link: **Σ**.
+- [markdeep](https://casual-effects.com/markdeep) - Markdeep is a JS library
+   which supports a variety of content as extensions of Markdown syntax
+   :bookmark: :link: **Σ**.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
    notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
    reStructuredText and more **Σ**.
@@ -76,6 +79,9 @@ document**.<br/>
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    work flow involving several tools, but primarily Pandoc, `latexmk` and
    AcademicMarkdown.
+- [markdeep-thesis](https://github.com/doersino/markdeep-thesis#readme) - Write
+   your (under)graduate thesis with Markdeep and typeset it right in your
+   browser.
 - [Pandoc Markdown-Latex
    Boilerplate](https://github.com/davecap/markdown-latex-boilerplate/#readme) - Demonstrate
    how to integrate Pandoc with an existing LaTeX template which
