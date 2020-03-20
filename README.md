@@ -129,6 +129,8 @@ document**.<br/>
  integration and utilities for Vim.
 - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) - Lightweight
  rendering of pandoc syntax in Vim.
+* [Zettlr](https://www.zettlr.com/) - An electron based markdown editor which
+ integrates Zotero, pandoc and many more features wrapped in an elegant interface.
 
 ## Linters
  Check grammar, spelling and language.
