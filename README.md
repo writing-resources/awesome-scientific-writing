@@ -124,12 +124,12 @@ document**.<br/>
  addons to pandoc which implement extra features such as citations and
  cross-references.
 - [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
- to John MacFarlane’s pandocfilters.
+ to John MacFarlane's pandocfilters.
 - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc/#readme) - Pandoc
  integration and utilities for Vim.
 - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax/#readme) - Lightweight
  rendering of pandoc syntax in Vim.
-* [Zettlr](https://www.zettlr.com/) - An electron based markdown editor which
+- [Zettlr](https://www.zettlr.com/) - An electron based markdown editor which
  integrates Zotero, pandoc and many more features wrapped in an elegant interface.
 
 ## Linters
