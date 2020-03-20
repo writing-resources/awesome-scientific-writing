@@ -102,10 +102,6 @@ document**.<br/>
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
    tutorial on authoring a paper by seamlessly integrating with LaTeX
    commands within Org-mode.
-- [Writing a  Book With Vim, Restructured Text, and
-   Sphinx](https://www.tompurl.com/2012-11-22-writing-a-book-with-vim.html) - A
-   blog post describing the work flow for writing a book with
-   reStructuredText.
 
 ### Presentations
 - [pandoc-starter](https://github.com/jez/pandoc-starter/#readme) - Templates for
