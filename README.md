@@ -43,6 +43,8 @@ document**.<br/>
 - [bookdown](https://github.com/rstudio/bookdown/#readme) - R package to facilitate
    writing books and long-form articles/reports with R Markdown :star:
    :bookmark: :link: **Σ**.
+- [Cicero](https://cicero.xyz/) - Python package which renders HTML presentations
+   from markdown source using remark or reveal.js :link: **Σ**.
 - [docutils](http://docutils.sourceforge.net/docs/) - Python package which can
    convert reStructuredText into various formats and provides command-line
    tools to do it :link: **Σ**.
