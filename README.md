@@ -3,7 +3,7 @@
 > Scientific writing can extend beyond LaTeX, made possible by formats,
 > such as
 > [Markdown](https://commonmark.org/) (and its many flavours),
-> [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
+> [reStructuredText](https://docutils.sourceforge.net/docs/ref/rst/directives.html) and
 > [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
 :star: means **really _awesome/useful_**.<br />
@@ -43,14 +43,14 @@ document**.<br/>
 - [bookdown](https://github.com/rstudio/bookdown/#readme) - R package to facilitate
    writing books and long-form articles/reports with R Markdown :star:
    :bookmark: :link: **Σ**.
-- [docutils](http://docutils.sourceforge.net/docs/) - Python package which can
+- [docutils](https://docutils.sourceforge.net/docs/) - Python package which can
    convert reStructuredText into various formats and provides command-line
    tools to do it :link: **Σ**.
 - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - A workflow for
    creating and editing publication ready scientific reports and presentations,
    from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
    :link: **Σ**.
-- [markdeep](https://casual-effects.com/markdeep) - Markdeep is a JS library
+- [markdeep](https://casual-effects.com/markdeep/) - Markdeep is a JS library
    which supports a variety of content as extensions of Markdown syntax
    :bookmark: :link: **Σ**.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
