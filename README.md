@@ -3,7 +3,7 @@
 > Scientific writing can extend beyond LaTeX, made possible by formats,
 > such as
 > [Markdown](https://commonmark.org/) (and its many flavours),
-> [reStructuredText](https://docutils.sourceforge.net/docs/ref/rst/directives.html) and
+> [reStructuredText](https://docutils.sourceforge.io/docs/ref/rst/directives.html) and
 > [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
 :star: means **really _awesome/useful_**.<br />
@@ -45,7 +45,7 @@ document**.<br/>
    :bookmark: :link: **Σ**.
 - [Cicero](https://cicero.xyz/) - Python package which renders HTML presentations
    from markdown source using remark or reveal.js :link: **Σ**.
-- [docutils](https://docutils.sourceforge.net/docs/) - Python package which can
+- [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
    convert reStructuredText into various formats and provides command-line
    tools to do it :link: **Σ**.
 - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - A workflow for
