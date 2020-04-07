@@ -1,4 +1,6 @@
+title: Awesome Scientific Writing
+description: A curated list of awesome things related to scientific writing.
+show_downloads: false
 theme: jekyll-theme-hacker
 plugins:
   - jemoji
-
