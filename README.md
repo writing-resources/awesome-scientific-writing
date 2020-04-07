@@ -31,18 +31,24 @@ document**.
   - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
    integration and utilities for Atom.
   - [Autocomplete BibTex for Atom](https://github.com/apcshields/autocomplete-bibtex) - BibLaTeX support for Atom.
+
 - [Marktext](https://marktext.app/) - Markdown text editor.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown
    :bookmark:
    :link:.
+
 - [Vim](https://www.vim.org/) - Command line text editor.
-- [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
- with vim integration which uses fzf (a fuzzy finder implemented in Go).
-  -[vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
-  -[vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
+  - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
+    with vim integration which uses fzf (a fuzzy finder implemented in Go).
+  - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
+  - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
+
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
+  - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
+    markdown support in VSCode, such as preview and auto completion to name a few.
+
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
@@ -52,13 +58,14 @@ document**.
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) -  A
- crowdsourced repository with over 9000 free CSL citation styles and an online
- editor to create new ones.
+  crowdsourced repository with over 9000 free CSL citation styles and an online
+  editor to create new ones.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
+
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
- share research.
-  -[Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced BibLaTex integration for Zotero.
-  -[ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
+  share research.
+  - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced BibLaTex integration for Zotero.
+  - [ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
 
 ## Illustrations
 
@@ -110,14 +117,14 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-- [GNU Aspell](http://aspell.net/)
-- [Hunspell](http://hunspell.github.io/)
+- [GNU Aspell](http://aspell.net/) - Command line spell checker.
+- [Hunspell](http://hunspell.github.io/) - Command line spell checker.
 - [LanguageTool](https://languagetool.org/) - Open source grammar, style and
  spell Checker.
-- [Markdown lint tool](https://github.com/markdownlint/markdownlint)
+- [Markdown lint tool](https://github.com/markdownlint/markdownlint) - Markdown linter.
 - [proselint](http://proselint.com/) - A linter for prose.
-- [remarklint](https://github.com/remarkjs/remark-lint)
-- [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint)
+- [remarklint](https://github.com/remarkjs/remark-lint) - Markdown linter.
+- [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) - ReStructeredText linter.
 - [textlint](https://textlint.github.io/) - The pluggable linting tool for text
  and markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
