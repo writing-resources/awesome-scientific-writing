@@ -21,7 +21,8 @@ document**.<br/>
 - [Templates](#templates)
   - [Articles](#articles)
   - [Presentations](#presentations)
-- [Tutorials](#demos)
+  - [Books](#books)
+- [Tutorials](#tutorials)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Word Processors
@@ -80,7 +81,7 @@ Drawing illustrations themselves has driven many a scientist mad. Fortunately,
 there are formal languages with which one can create beautiful graphics.
 
 - [diagrams.net](https://www.diagrams.net/) - Open source, online, desktop and
- container deployable diagramming software
+ container deployable diagramming software.
 - [graphviz](https://graphviz.org/) - Visualization software for graphs and
  networks which uses a domain-specific DOT language.
 
