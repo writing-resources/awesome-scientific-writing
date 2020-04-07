@@ -6,11 +6,9 @@
 > [reStructuredText](https://docutils.sourceforge.io/docs/ref/rst/directives.html) and
 > [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
-:star: means **really _awesome/useful_**.<br />
 :bookmark: means ability to **seamlessly cite references**.<br/>
 :link: means ability to **cross-reference figures and sections within the
 document**.<br/>
-**Σ** means ability to **write equations in LaTeX**.<br/>
 
 ## Contents
 
@@ -32,37 +30,37 @@ Word Processors which can generate LaTeX, HTML or PDF output on demand.
 - [academicmarkdown](https://github.com/smathot/academicmarkdown#readme) - A
    Python wrapper over Pandoc with specialized extensions to parse certain
    elements, making it a superset of Pandoc markdown flavour :bookmark:
-   :link: - **Σ**.
+   :link:.
 - [bookbook](https://github.com/takluyver/bookbook/#readme) - An experimental Python
    package which extends `nbconvert` and adds the ability to cross reference
-   within and across notebooks :link: **Σ**.
+   within and across notebooks :link:.
 - [bookdown](https://github.com/rstudio/bookdown/#readme) - R package to facilitate
-   writing books and long-form articles/reports with R Markdown :star:
-   :bookmark: :link: **Σ**.
+   writing books and long-form articles/reports with R Markdown :bookmark:
+   :link:.
 - [Cicero](https://cicero.xyz/) - Python package which renders HTML presentations
-   from markdown source using remark or reveal.js :link: **Σ**.
+   from markdown source using remark or reveal.js :link:.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
    convert reStructuredText into various formats and provides command-line
-   tools to do it :link: **Σ**.
+   tools to do it :link:.
 - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - A workflow for
    creating and editing publication ready scientific reports and presentations,
    from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
-   :link: **Σ**.
+   :link:.
 - [markdeep](https://casual-effects.com/markdeep/) - Markdeep is a JS library
    which supports a variety of content as extensions of Markdown syntax
-   :bookmark: :link: **Σ**.
+   :bookmark: :link:.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
    notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
-   reStructuredText and more **Σ**.
+   reStructuredText and more.
 - [org-mode](https://orgmode.org) - Powerful Emacs package for authoring notes,
    TODO lists, spreadsheets, documents, executable code-blocks and a lot more
-   in a plain text format called Org :star: :bookmark: :link: **Σ**.
+   in a plain text format called Org :bookmark: :link:.
 - [pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
    one markup format to another, and a command-line tool that uses this
-   library :star: :bookmark: :link: **Σ**.
+   library :bookmark: :link:.
 - [Zettlr](https://www.zettlr.com/) - An electron based markdown editor which
    integrates Zotero, pandoc and many more features wrapped in an elegant WYSIWYG
-   interface.
+   interface :bookmark: :link:.
 
 ## Bibliography
 Bibliography managers to generate citations / BibTeX / BibLaTeX files.
