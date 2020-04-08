@@ -59,8 +59,8 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
  share research.
-  -[Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced BibLaTex integration for Zotero.
-  -[ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
+  - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced BibLaTex integration for Zotero.
+  - [ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
 
 ## Illustrations
 
