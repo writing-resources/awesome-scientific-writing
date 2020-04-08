@@ -31,24 +31,20 @@ document**.
   - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
     integration and utilities for Atom.
   - [Autocomplete BibTex for Atom](https://github.com/apcshields/autocomplete-bibtex) - BibLaTeX support for Atom.
-
 - [Marktext](https://marktext.app/) - Markdown text editor.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown
    :bookmark:
    :link:.
-
 - [Vim](https://www.vim.org/) - Command line text editor.
   - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
     with vim integration which uses fzf (a fuzzy finder implemented in Go).
   - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
   - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
-
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     markdown support in VSCode, such as preview and auto completion to name a few.
-
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
@@ -61,7 +57,6 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   crowdsourced repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
-
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced BibLaTex integration for Zotero.
@@ -102,7 +97,6 @@ Supplementary files and tools.
     creating and editing publication ready scientific reports and presentations,
     from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
     :link:.
-
 - [pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
