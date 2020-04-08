@@ -38,10 +38,10 @@ document**.
    :bookmark:
    :link:.
 - [Vim](https://www.vim.org/) - Command line text editor.
-- [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
+  - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
  with vim integration which uses fzf (a fuzzy finder implemented in Go).
-  -[vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
-  -[vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
+  - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
+  - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
