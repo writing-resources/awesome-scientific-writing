@@ -112,14 +112,14 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-- [GNU Aspell](http://aspell.net/)
-- [Hunspell](http://hunspell.github.io/)
+- [GNU Aspell](http://aspell.net/) - Command line spell checker.
+- [Hunspell](http://hunspell.github.io/) - Command line spell checker.
 - [LanguageTool](https://languagetool.org/) - Open source grammar, style and
  spell Checker.
-- [Markdown lint tool](https://github.com/markdownlint/markdownlint)
+- [Markdown lint tool](https://github.com/markdownlint/markdownlint) - Markdown linter.
 - [proselint](http://proselint.com/) - A linter for prose.
-- [remarklint](https://github.com/remarkjs/remark-lint)
-- [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint)
+- [remarklint](https://github.com/remarkjs/remark-lint) - Markdown linter.
+- [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) - ReStructeredText linter.
 - [textlint](https://textlint.github.io/) - The pluggable linting tool for text
  and markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
