@@ -38,7 +38,7 @@ document**.
    :bookmark:
    :link:.
 - [Vim](https://www.vim.org/) - Command line text editor.
-  - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - A BibTeX source
+  - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
     with vim integration which uses fzf (a fuzzy finder implemented in Go).
   - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
   - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
@@ -90,24 +90,23 @@ Supplementary files and tools.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
-  - [bookbook](https://github.com/takluyver/bookbook/#readme) - An experimental Python
+  - [bookbook](https://github.com/takluyver/bookbook/#readme) - Experimental Python
     package which extends `nbconvert` and adds the ability to cross reference
     within and across notebooks :link:.
-  - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - A workflow for
+  - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - Workflow for
     creating and editing publication ready scientific reports and presentations,
     from one or more Jupyter Notebooks, without leaving the browser! :bookmark:
     :link:.
-- [pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
+- [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  - [academicmarkdown](https://github.com/smathot/academicmarkdown#readme) - A
-    Python wrapper over Pandoc with specialized extensions to parse certain
+  - [academicmarkdown](https://github.com/smathot/academicmarkdown#readme) - Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc markdown flavour :bookmark:
     :link:.
   - [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
-  - [Panflute](http://scorreia.com/software/panflute/) - A pythonic alternative
+  - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
 
 ## Spell Checking and Linting
@@ -117,14 +116,14 @@ Supplementary files and tools.
 - [LanguageTool](https://languagetool.org/) - Open source grammar, style and
  spell Checker.
 - [Markdown lint tool](https://github.com/markdownlint/markdownlint) - Markdown linter.
-- [proselint](http://proselint.com/) - A linter for prose.
+- [proselint](http://proselint.com/) - Linter for prose.
 - [remarklint](https://github.com/remarkjs/remark-lint) - Markdown linter.
 - [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) - ReStructeredText linter.
-- [textlint](https://textlint.github.io/) - The pluggable linting tool for text
+- [textlint](https://textlint.github.io/) - Pluggable linting tool for text
  and markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
  style checking on LaTeX documents.
-- [Vale](https://errata-ai.github.io/vale/) - A free, open-source linter for
+- [Vale](https://errata-ai.github.io/vale/) - Free, open-source linter for
  prose built with speed and extensibility in mind.
 - [write-good](https://github.com/btford/write-good) - Naive linter for English
  prose.
@@ -157,12 +156,12 @@ Reusable minimalistic examples.
 
 - [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
    example of a book based on R Markdown and bookdown.
-- [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - A clean academic pandoc LaTeX template.
+- [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean academic pandoc LaTeX template.
 - [markdeep-thesis](https://github.com/doersino/markdeep-thesis#readme) - Write
    your (under)graduate thesis with Markdeep and typeset it right in your
    browser.
 - [Template for writing a PhD thesis in
-   Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - A clean
+   Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean
    organization of files to provide a framework for writing a PhD thesis in
    mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.
 
@@ -180,7 +179,7 @@ How to generate articles and presentations for scientific purposes.
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    work flow involving several tools, but primarily Pandoc, `latexmk` and
    AcademicMarkdown.
-- [Scott Selisker](http://u.arizona.edu/~selisker/post/workflow/) - A Plain Text Workflow for Academic Writing with Atom.
+- [Scott Selisker](http://u.arizona.edu/~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
 - [Teaching and learning with
    Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
    written in R Markdown, bookdown and also rendered as HTML, PDF and
