@@ -53,8 +53,8 @@ document**.
 
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
-- [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) -  A
-  crowdsourced repository with over 9000 free CSL citation styles and an online
+- [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
+  repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
