@@ -61,6 +61,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   share research.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced BibLaTex integration for Zotero.
   - [ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
+- [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
 
 ## Illustrations
 
