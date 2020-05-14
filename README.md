@@ -85,9 +85,6 @@ Supplementary files and tools.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
   convert reStructuredText into various formats and provides command-line
   tools to do it :link:.
-- [markdeep](https://casual-effects.com/markdeep/) - Markdeep is a JS library
-  which supports a variety of content as extensions of Markdown syntax
-  :bookmark: :link:.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
@@ -158,9 +155,6 @@ Reusable minimalistic examples.
 - [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
    example of a book based on R Markdown and bookdown.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean academic pandoc LaTeX template.
-- [markdeep-thesis](https://github.com/doersino/markdeep-thesis#readme) - Write
-   your (under)graduate thesis with Markdeep and typeset it right in your
-   browser.
 - [Template for writing a PhD thesis in
    Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean
    organization of files to provide a framework for writing a PhD thesis in
