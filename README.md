@@ -155,9 +155,6 @@ Reusable minimalistic examples.
 - [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
    example of a book based on R Markdown and bookdown.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean academic pandoc LaTeX template.
-- [markdeep-thesis](https://github.com/doersino/markdeep-thesis#readme) - Write
-   your (under)graduate thesis with Markdeep and typeset it right in your
-   browser.
 - [Template for writing a PhD thesis in
    Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean
    organization of files to provide a framework for writing a PhD thesis in
