@@ -85,9 +85,6 @@ Supplementary files and tools.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
   convert reStructuredText into various formats and provides command-line
   tools to do it :link:.
-- [markdeep](https://casual-effects.com/markdeep/) - Markdeep is a JS library
-  which supports a variety of content as extensions of Markdown syntax
-  :bookmark: :link:.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
