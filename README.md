@@ -32,6 +32,8 @@ document**.
     integration and utilities for Atom.
   - [Autocomplete BibTeX for Atom](https://github.com/apcshields/autocomplete-bibtex) - BibTeX support for Atom.
 - [Marktext](https://marktext.app/) - Markdown text editor.
+- [Notion](https://www.notion.so/) - All-in-one workspace editor that supports Markdown styling (on desktop, web and mobile).
+- [Overleaf](https://www.overleaf.com/) - An online LaTeX editor for real-time collaboration.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown
