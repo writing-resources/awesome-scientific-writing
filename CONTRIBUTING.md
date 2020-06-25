@@ -29,7 +29,7 @@ Thank you for your suggestions!
 *Maintainers, make sure that*:
 
 - the above criteria are followed,
-- the **tests pass** on the CI,
+- the tests pass on the CI,
 - in case of addition or removal, make an assessment of
   awesomeness of the entry.
 
@@ -39,7 +39,7 @@ If the maintainers notice anything that we'd like changed, we'll ask you to
 edit your PR before we merge it. There's no need to open a new PR, just edit
 the existing one.
 
-## Appending: running lint tests
+## Appendix: running lint tests
 
 To run tests locally:
 
