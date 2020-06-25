@@ -6,23 +6,47 @@ project you agree to abide by its terms.
 
 ---
 
-Before sending a pull request, make sure that:
+## We welcome
 
-- if the entry is a software, it should be maintained (at least a commit / a
-  release in the past 3 years),
-- the contents are sorted alphabetically,
-- the tests pass (either on the CI or locally),
+- **Additions**: restricted to addition of one new entry per pull-request.
+- **Removals**: restricted to removal of one obsolete entry per pull-request.
+- **Edits**: you may correct the descriptions if it can be improved.
 
-      # using ruby
-      gem install awesome_bot
-      awesome_bot README.md
-      # using node.js
-      npm install -g awesome-lint
-      awesome-lint README.md
+## Criteria for accepting a pull-request
+
+*Contributors, make sure that*:
+
+- a **short pitch** is included in the pull-request description,
+- if the entry is a software:
+  - the entry is **open-source** with appropriate **license**,
+  - it should be **maintained** (at least a commit / a
+    release in the past 3 years),
+- the table of contents has been updated (if a section is added / removed).
+- the contents are sorted **alphabetically**,
 
 Thank you for your suggestions!
 
+*Maintainers, make sure that*:
+
+- the above criteria are followed,
+- the **tests pass** on the CI,
+- in case of addition or removal, make an assessment of
+  awesomeness of the entry.
+
 ## Updating your PR
+
 If the maintainers notice anything that we'd like changed, we'll ask you to
 edit your PR before we merge it. There's no need to open a new PR, just edit
 the existing one.
+
+## Appending: running lint tests
+
+To run tests locally:
+
+    # using ruby
+    gem install awesome_bot
+    awesome_bot README.md
+    # using node.js
+    npm install -g awesome-lint
+    awesome-lint README.md
+
