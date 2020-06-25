@@ -14,9 +14,8 @@ Alternatively, refer to existing issues if any.
 
 - [ ] I have read and understood the [contribution guidelines](../CONTRIBUTING.md).
 - [ ] If the entry is a software:
-       - [ ] it should be **maintained** (at least a commit / a
-            release in the past 3 years),
-       - [ ] it is **open-source** with appropriate **license**
+	- [ ] it should be **maintained** (at least a commit / a release in the past 3 years),
+	- [ ] it is **open-source** with appropriate **license**
 - [ ] Table of contents has been updated (if a section is added / removed).
 - [ ] Contents have been sorted alphabetically.
 
