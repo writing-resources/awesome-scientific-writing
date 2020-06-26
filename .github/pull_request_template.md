@@ -1,6 +1,4 @@
-
-
-Add / remove {entry name} to/from the "{section name}" section.
+Add / Remove / Edit {entry name} to/from the "{section name}" section.
 
 <details>
   <summary>Short pitch</summary>
@@ -12,7 +10,7 @@ Alternatively, refer to existing issues if any.
 
 ## Checklist
 
-- [ ] I have read and understood the [contribution guidelines](../CONTRIBUTING.md).
+- [ ] I have read and understood the [contribution guidelines](https://github.com/writing-resources/awesome-scientific-writing/blob/main/CONTRIBUTING.md).
 - [ ] If the entry is a software:
 	- [ ] it should be **maintained** (at least a commit / a release in the past 3 years),
 	- [ ] it is **open-source** with appropriate **license**
