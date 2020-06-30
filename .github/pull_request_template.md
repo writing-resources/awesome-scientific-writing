@@ -3,8 +3,12 @@ Add / Remove / Edit {entry name} to/from the "{section name}" section.
 <details>
   <summary>Short pitch</summary>
 
-Describe why this change is made.
-Alternatively, refer to existing issues if any.
+Describe why this change is made. Alternatively, refer to existing issues if
+any. You could try to answer:
+
+* Why do / don't you find this tool awesome?
+* How do you use this tool in your workflow?
+* What advantages / disadvantages does it have compared to {another tool}?
 
 </details>
 
