@@ -86,6 +86,10 @@ Supplementary files and tools.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
   convert reStructuredText into various formats and provides command-line
   tools to do it :link:.
+- [Jupyter Book](https://jupyterbook.org/) - A static site generator which converts
+  a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
+- [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
+  a superset of CommonMark markdown with reStructuredText like features.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
