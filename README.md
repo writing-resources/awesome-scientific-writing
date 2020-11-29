@@ -195,6 +195,6 @@ How to generate articles and presentations for scientific purposes.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 
-## Contribute
+### Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
