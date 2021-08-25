@@ -23,7 +23,7 @@ document**.
   - [Presentations](#presentations)
   - [Books](#books)
 - [Tutorials](#tutorials)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Lists](#other-lists)
 
 ## Word Processors
 
