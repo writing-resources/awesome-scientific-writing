@@ -23,7 +23,7 @@ document**.
   - [Presentations](#presentations)
   - [Books](#books)
 - [Tutorials](#tutorials)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Lists](#other-lists)
 
 ## Word Processors
 
@@ -189,11 +189,12 @@ How to generate articles and presentations for scientific purposes.
    tutorial on authoring a paper by seamlessly integrating with LaTeX
    commands within Org-mode.
 
-## Other Awesome Lists
+## Other Lists
 
-- [Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
-- [Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
+- [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
+- [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+- [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute
 
