@@ -45,6 +45,8 @@ document**.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
+  - [Citation Picker for Zotero](https://marketplace.visualstudio.com/items?itemName=mblode.zotero) :bookmark:
+  - [Pandoc Citer](https://marketplace.visualstudio.com/items?itemName=notZaki.pandocciter) - autocompletion of citations stored in a bibtex file :bookmark:
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
