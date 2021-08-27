@@ -13,17 +13,20 @@ document**.
 
 ## Contents
 
-- [Word Processors](#word-processors)
-- [Bibliography](#bibliography)
-- [Illustrations](#illustrations)
-- [Converters and Filters](#converters-and-filters)
-- [Spell Checking and Linting](#spell-checking-and-linting)
-- [Templates](#templates)
-  - [Articles](#articles)
-  - [Presentations](#presentations)
-  - [Books](#books)
-- [Tutorials](#tutorials)
-- [Other Lists](#other-lists)
+- [Awesome Scientific Writing ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-scientific-writing-)
+  - [Contents](#contents)
+  - [Word Processors](#word-processors)
+  - [Bibliography](#bibliography)
+  - [Illustrations](#illustrations)
+  - [Converters and Filters](#converters-and-filters)
+  - [Spell Checking and Linting](#spell-checking-and-linting)
+  - [Templates](#templates)
+    - [Articles](#articles)
+    - [Presentations](#presentations)
+    - [Books](#books)
+  - [Tutorials](#tutorials)
+  - [Other Lists](#other-lists)
+    - [Contribute](#contribute)
 
 ## Word Processors
 
@@ -45,6 +48,8 @@ document**.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
+  - [Citation Picker for Zotero](https://marketplace.visualstudio.com/items?itemName=mblode.zotero)
+  - [Pandoc Citer](https://marketplace.visualstudio.com/items?itemName=notZaki.pandocciter) - autocompletion of citations stored in a bibtex file
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
