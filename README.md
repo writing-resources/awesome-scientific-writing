@@ -71,6 +71,7 @@ there are formal languages with which one can create beautiful graphics.
 
 - [diagrams.net](https://www.diagrams.net/) - Open source, online, desktop and
   container deployable diagramming software.
+- [ditaa](http://ditaa.sourceforge.net/) - Ditaa is a command-line utility that converts diagrams drawn using ASCII art into bitmap graphics.
 - [graphviz](https://graphviz.org/) - Visualization software for graphs and
   networks which uses a domain-specific DOT language.
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
