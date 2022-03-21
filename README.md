@@ -184,6 +184,7 @@ How to generate articles and presentations for scientific purposes.
    Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
    written in R Markdown, bookdown and also rendered as HTML, PDF and
    EPUB.
+- [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 - [Writing scientific papers for ACPD using Emacs
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
    tutorial on authoring a paper by seamlessly integrating with LaTeX
