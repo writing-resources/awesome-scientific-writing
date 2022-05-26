@@ -93,13 +93,6 @@ Supplementary files and tools.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
-  - [bookbook](https://github.com/takluyver/bookbook/#readme) - Experimental Python
-    package which extends `nbconvert` and adds the ability to cross reference
-    within and across notebooks :link:.
-  - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - Workflow for
-    creating and editing publication ready scientific reports and presentations,
-    from one or more Jupyter Notebooks, without leaving the browser :bookmark:
-    :link:.
 - [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
