@@ -126,7 +126,7 @@ Supplementary files and tools.
  and Markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
  style checking on LaTeX documents.
-- [Vale](https://errata-ai.github.io/vale/) - Free, open-source linter for
+- [Vale](https://github.com/errata-ai/vale) - Free, open-source linter for
  prose built with speed and extensibility in mind.
 - [write-good](https://github.com/btford/write-good) - Naive linter for English
  prose.
@@ -184,6 +184,7 @@ How to generate articles and presentations for scientific purposes.
    Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
    written in R Markdown, bookdown and also rendered as HTML, PDF and
    EPUB.
+- [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 - [Writing scientific papers for ACPD using Emacs
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
    tutorial on authoring a paper by seamlessly integrating with LaTeX
