@@ -31,7 +31,7 @@ document**.
   - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
     integration and utilities for Atom.
   - [Autocomplete BibTeX for Atom](https://github.com/apcshields/autocomplete-bibtex) - BibTeX support for Atom.
-- [Marktext](https://marktext.app/) - Markdown text editor.
+- [Marktext](https://github.com/marktext/marktext) - Markdown text editor.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown
@@ -86,20 +86,13 @@ Supplementary files and tools.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
   convert reStructuredText into various formats and provides command-line
   tools to do it :link:.
-- [Jupyter Book](https://jupyterbook.org/) - A static site generator which converts
+- [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
   a superset of CommonMark markdown with reStructuredText like features.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
-  - [bookbook](https://github.com/takluyver/bookbook/#readme) - Experimental Python
-    package which extends `nbconvert` and adds the ability to cross reference
-    within and across notebooks :link:.
-  - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - Workflow for
-    creating and editing publication ready scientific reports and presentations,
-    from one or more Jupyter Notebooks, without leaving the browser :bookmark:
-    :link:.
 - [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
