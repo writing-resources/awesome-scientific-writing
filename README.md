@@ -37,6 +37,9 @@ document**.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown
    :bookmark:
    :link:.
+  - [Quarto](https://quarto.org)
+   :bookmark:
+   :link:
 - [Vim](https://www.vim.org/) - Command line text editor.
   - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
     with Vim integration which uses fzf (a fuzzy finder implemented in Go).
@@ -45,6 +48,9 @@ document**.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
+  - [Quarto](https://quarto.org)
+   :bookmark:
+   :link:
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
@@ -93,6 +99,9 @@ Supplementary files and tools.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
+- [Quarto](https://quarto.org)
+  :bookmark:
+  :link:
 - [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
@@ -182,6 +191,8 @@ How to generate articles and presentations for scientific purposes.
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
    tutorial on authoring a paper by seamlessly integrating with LaTeX
    commands within Org-mode.
+- [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/)
+- [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/)
 
 ## Other Lists
 
