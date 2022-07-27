@@ -170,13 +170,14 @@ Reusable minimalist examples.
 ## Tutorials
 
 How to generate articles and presentations for scientific purposes.
-
+- [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/)
 - [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - This
    example uses a custom `nbconvert` template and shows how to store your
    notebooks with no output (for version control) while automatically executing
    them before running `bookbook`, so that PDF and HTML versions include the
    output.
 - [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
+- [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/)
 - [Katrin Leinweber's Ph.D.
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    work flow involving several tools, but primarily Pandoc, `latexmk` and
@@ -191,8 +192,6 @@ How to generate articles and presentations for scientific purposes.
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
    tutorial on authoring a paper by seamlessly integrating with LaTeX
    commands within Org-mode.
-- [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/)
-- [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/)
 
 ## Other Lists
 
