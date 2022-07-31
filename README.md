@@ -45,9 +45,6 @@ document**.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
-  - [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia code and its output.
-   :bookmark:
-   :link:
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
@@ -96,9 +93,6 @@ Supplementary files and tools.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
-- [Quarto](https://quarto.org)
-  :bookmark:
-  :link:
 - [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
@@ -110,6 +104,7 @@ Supplementary files and tools.
     cross-references.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
+- [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia. :bookmark: :link:
 
 ## Spell Checking and Linting
 
@@ -167,6 +162,7 @@ Reusable minimalist examples.
 ## Tutorials
 
 How to generate articles and presentations for scientific purposes.
+
 - [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers. 
 - [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - This
    example uses a custom `nbconvert` template and shows how to store your
