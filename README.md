@@ -104,7 +104,7 @@ Supplementary files and tools.
     cross-references.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
-- [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia. :bookmark: :link:
+- [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
 
 ## Spell Checking and Linting
 
