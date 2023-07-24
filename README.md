@@ -118,7 +118,7 @@ Supplementary files and tools.
 - [Hunspell](http://hunspell.github.io/) - Command line spell checker.
 - [LanguageTool](https://languagetool.org/) - Open source grammar, style and
  spell Checker.
-- [LanguageCheck](https://github.com/JohannesBuchner/languagecheck): Analyses scientific papers written in LaTeX, offline or on overleaf. Analysis reports with suggestions for improvements include a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check and paragraph topic sentences.
+- [LanguageCheck](https://github.com/JohannesBuchner/languagecheck): Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 - [Markdown lint tool](https://github.com/markdownlint/markdownlint) - Markdown linter.
 - [proselint](http://proselint.com/) - Linter for prose.
 - [remarklint](https://github.com/remarkjs/remark-lint) - Markdown linter.
