@@ -84,20 +84,13 @@ Supplementary files and tools.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
   convert reStructuredText into various formats and provides command-line
   tools to do it :link:.
-- [Jupyter Book](https://jupyterbook.org/) - A static site generator which converts
+- [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
   a superset of CommonMark markdown with reStructuredText like features.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
-  - [bookbook](https://github.com/takluyver/bookbook/#readme) - Experimental Python
-    package which extends `nbconvert` and adds the ability to cross reference
-    within and across notebooks :link:.
-  - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - Workflow for
-    creating and editing publication ready scientific reports and presentations,
-    from one or more Jupyter Notebooks, without leaving the browser :bookmark:
-    :link:.
 - [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
@@ -109,6 +102,7 @@ Supplementary files and tools.
     cross-references.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
+- [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
 
 ## Spell Checking and Linting
 
@@ -125,7 +119,7 @@ Supplementary files and tools.
  and Markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
  style checking on LaTeX documents.
-- [Vale](https://errata-ai.github.io/vale/) - Free, open-source linter for
+- [Vale](https://github.com/errata-ai/vale) - Free, open-source linter for
  prose built with speed and extensibility in mind.
 - [write-good](https://github.com/btford/write-good) - Naive linter for English
  prose.
@@ -168,12 +162,14 @@ Reusable minimalist examples.
 
 How to generate articles and presentations for scientific purposes.
 
+- [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers. 
 - [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - This
    example uses a custom `nbconvert` template and shows how to store your
    notebooks with no output (for version control) while automatically executing
    them before running `bookbook`, so that PDF and HTML versions include the
    output.
 - [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
+- [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
 - [Katrin Leinweber's Ph.D.
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    work flow involving several tools, but primarily Pandoc, `latexmk` and
@@ -183,6 +179,7 @@ How to generate articles and presentations for scientific purposes.
    Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
    written in R Markdown, bookdown and also rendered as HTML, PDF and
    EPUB.
+- [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 - [Writing scientific papers for ACPD using Emacs
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
    tutorial on authoring a paper by seamlessly integrating with LaTeX
