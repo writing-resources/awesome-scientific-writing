@@ -27,10 +27,6 @@ document**.
 
 ## Word Processors
 
-- [Atom](https://atom.io) - Popular IDE with Markdown support.
-  - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
-    integration and utilities for Atom.
-  - [Autocomplete BibTeX for Atom](https://github.com/apcshields/autocomplete-bibtex) - BibTeX support for Atom.
 - [Marktext](https://marktext.app/) - Markdown text editor.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
@@ -45,6 +41,8 @@ document**.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
+  - [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
+    integration and utilities.  
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
@@ -69,8 +67,8 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 Drawing illustrations themselves has driven many a scientist mad. Fortunately,
 there are formal languages with which one can create beautiful graphics.
 
-- [diagrams.net](https://www.diagrams.net/) - Open source, online, desktop and
-  container deployable diagramming software.
+- [app.diagrams.net](https://app.diagrams.net/) - Open source, online, desktop and
+  container deployable diagramming software named draw.io.
 - [graphviz](https://graphviz.org/) - Visualization software for graphs and
   networks which uses a domain-specific DOT language.
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
@@ -180,7 +178,7 @@ How to generate articles and presentations for scientific purposes.
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    work flow involving several tools, but primarily Pandoc, `latexmk` and
    Academic Markdown.
-- [Scott Selisker](http://u.arizona.edu/~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
+- [Scott Selisker](https://u.arizona.edu/~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
 - [Teaching and learning with
    Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
    written in R Markdown, bookdown and also rendered as HTML, PDF and
