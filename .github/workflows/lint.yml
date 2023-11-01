@@ -4,16 +4,9 @@ on: [pull_request]
 
 jobs:
   lint:
-
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1.0.0
-    - uses: max/awesome-lint@v2.0.0
-    - name: Set up Ruby 3.0
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.0'
-    - name: Install awesome_bot
-      run: gem install awesome_bot
-    - name: Lint
-      run: awesome_bot README.md
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
