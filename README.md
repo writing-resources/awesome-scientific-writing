@@ -174,6 +174,7 @@ How to generate articles and presentations for scientific purposes.
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    work flow involving several tools, but primarily Pandoc, `latexmk` and
    Academic Markdown.
+- [Resul Umit's workshop slides](https://resulumit.com/teaching/rmd_workshop.html#1) and [GitHub Repo](https://github.com/resulumit/rmd_workshop) - Writing Reproducible Research Papers with R Markdown. 
 - [Scott Selisker](https://u.arizona.edu/~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
 - [Teaching and learning with
    Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
