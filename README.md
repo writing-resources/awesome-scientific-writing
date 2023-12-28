@@ -123,6 +123,7 @@ Supplementary files and tools.
  prose built with speed and extensibility in mind.
 - [write-good](https://github.com/btford/write-good) - Naive linter for English
  prose.
+- [EPUBCheckFX](https://github.com/Wandmalfarbe/EPUBCheckFX) - A graphical application to validate `epub` files against the official EPUB specification.
 
 ## Templates
 
