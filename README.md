@@ -135,11 +135,11 @@ Reusable minimalist examples.
    how to integrate Pandoc with an existing LaTeX template which
    requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
    `latexmk` dependency.
+- [Paper Templates for GitHub Pages](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) - Example
    for use of Markdown for scientific publications using Pandoc and
    `latexmk`.
 - [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
-- [Paper Templates for GitHub Pages](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
 
 
 ### Presentations
