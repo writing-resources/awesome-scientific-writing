@@ -44,6 +44,7 @@ document**.
 - [Zettlr](https://www.zettlr.com/) - Markdown editor which
    integrates CSL, BibLaTeX, Pandoc and many other tools
    :bookmark: :link:.
+- [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic writing assistant with literature search, citation support, and essay structuring.
 
 ## Bibliography
 
