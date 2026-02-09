@@ -70,8 +70,9 @@ there are formal languages with which one can create beautiful graphics.
 - [graphviz](https://graphviz.org/) - Visualization software for graphs and
   networks which uses a domain-specific DOT language.
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
-- [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
 - [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
+- [Plottie](https://plottie.art/) - Open-access reference library of scientific plots and figures for research and education.
+- [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
 
 ## Converters and Filters
 
