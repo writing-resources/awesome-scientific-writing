@@ -1,3 +1,8 @@
+> [!WARNING]
+> If you are adding an entry about a **commercial software** or a **platform as a service (PaaS)**,
+> which provides no ability for a researcher to use it locally without the internet,
+> stop right there and do not proceed with the pull-request!
+
 Add / Remove / Edit {entry name} to/from the "{section name}" section.
 
 <details>
