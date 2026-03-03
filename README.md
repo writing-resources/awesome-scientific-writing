@@ -52,6 +52,10 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
+- [CiteMe](https://citeme.app) - AI-powered citation generator that searches
+  11+ academic databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and
+  formats references in 40+ CSL styles. Available as web app, browser
+  extension, Google Docs add-on, and Word add-in.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
