@@ -49,6 +49,7 @@ document**.
 
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
+- [abnt-citation](https://github.com/danielnichiata96/abnt-citation) - TypeScript library for formatting citations and parsing author names per Brazilian ABNT standards (NBR 6023:2025 and NBR 10520:2023).
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
