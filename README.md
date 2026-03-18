@@ -57,6 +57,8 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
     BibTeX / BibLaTeX integration for Zotero.
 - [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - MCP server for searching
+  scientific papers with structured experimental data from full-text studies.
 
 ## Illustrations
 
