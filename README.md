@@ -154,6 +154,7 @@ How to generate articles and presentations for scientific purposes.
    commands within Org-mode.
 
 ## Other Lists
+- [Agent2Research: Medical Paper Writing Tools](https://agent2research.com/topics/medical-paper-writing-tools?utm_source=github&utm_medium=backlink&utm_campaign=github_pr_202605) - Curated guide to AI and research workflow tools for medical paper writing, polishing, figures, and pre-submission checks.
 
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
 - [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
