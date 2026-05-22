@@ -147,7 +147,7 @@ How to generate articles and presentations for scientific purposes.
    output.
 - [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
 - [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://blog.devgenius.io/heads-up-quarto-is-here-to-stay-aa861ef87491) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/writing-content/scientific-writing) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 - [Writing scientific papers for ACPD using Emacs
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
