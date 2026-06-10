@@ -96,6 +96,7 @@ Supplementary files and tools.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
 - [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
+- [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export tables to LaTeX, Markdown, CSV, Excel, PDF, and PNG. Open source, no signup required.
 
 ## Spell Checking and Linting
 
