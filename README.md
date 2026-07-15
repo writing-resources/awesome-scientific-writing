@@ -80,6 +80,7 @@ Supplementary files and tools.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
   convert reStructuredText into various formats and provides command-line
   tools to do it :link:.
+- [docx-pipeline](https://github.com/redamancy231-create/docx-pipeline) - Markdown to Chinese DOCX converter with dual backend (Pure Python + Pandoc) and Mermaid diagram support.
 - [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
