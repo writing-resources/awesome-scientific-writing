@@ -51,6 +51,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
+- [citecheck](https://github.com/tobiasosDev/citecheck) - Command-line tool that checks whether the references in a bibliography (BibTeX, RIS, CSL-JSON) exist and haven't been retracted, using the Crossref, OpenAlex, and DOAJ APIs.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
