@@ -30,6 +30,7 @@ document**.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
+- [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - Open-source academic writing assistant with text completion and context-aware citation retrieval :bookmark:.
 - [Vim](https://www.vim.org/) - Command line text editor.
   - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
     with Vim integration which uses fzf (a fuzzy finder implemented in Go).
