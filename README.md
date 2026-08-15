@@ -100,6 +100,7 @@ Supplementary files and tools.
 ## Spell Checking and Linting
 
 - [GNU Aspell](http://aspell.net/) - Command line spell checker.
+- [humanize-mba-text-skill](https://github.com/stephenlzc/humanize-mba-text-skill) - Agent skill that detects and rewrites AI writing patterns in Chinese academic theses toward natural academic style.
 - [Hunspell](http://hunspell.github.io/) - Command line spell checker.
 - [LanguageTool](https://languagetool.org/) - Open source grammar, style and
  spell Checker.
