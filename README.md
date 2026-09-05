@@ -58,6 +58,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   share research.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
     BibTeX / BibLaTeX integration for Zotero.
+  - [Zotero OCR](https://github.com/UB-Mannheim/zotero-ocr) - Plugin that makes scanned PDFs searchable using Tesseract OCR and Poppler.
 - [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
 
 ## Illustrations
