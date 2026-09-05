@@ -52,6 +52,8 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
+- [ScholarRef](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
+  (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
