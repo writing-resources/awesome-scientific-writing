@@ -102,6 +102,7 @@ Supplementary files and tools.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
 - [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
+- [Typst](https://github.com/typst/typst) - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
 
 ## Spell Checking and Linting
 
