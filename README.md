@@ -52,10 +52,13 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
+- [ScholarRef](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
+  (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
     BibTeX / BibLaTeX integration for Zotero.
+  - [Zotero OCR](https://github.com/UB-Mannheim/zotero-ocr) - Plugin that makes scanned PDFs searchable using Tesseract OCR and Poppler.
 - [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
 
 ## Illustrations
@@ -83,8 +86,12 @@ Supplementary files and tools.
 - [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
 - [Manubot](https://manubot.org/) - Workflow for writing and publishing scholarly manuscripts with Markdown, persistent-identifier citations, and reproducible builds.
+- [latex2arxiv](https://github.com/YuZh98/latex2arxiv) - Command-line tool which converts
+  a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and
+  draft markup, and flags arXiv submission blockers before upload.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
   a superset of CommonMark markdown with reStructuredText like features.
+- [MyST Markdown CLI](https://mystmd.org/) - Command-line tools for building scientific documents from MyST Markdown with citations, cross-references, and HTML, PDF, and Word output.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
@@ -97,6 +104,7 @@ Supplementary files and tools.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
 - [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
+- [Typst](https://github.com/typst/typst) - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
 
 ## Spell Checking and Linting
 
