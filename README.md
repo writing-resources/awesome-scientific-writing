@@ -108,6 +108,7 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
+- [CiteVahti](https://github.com/heidihelena/citevahti) - Checks whether each cited source supports the claim it backs, like a linter for citations; local-first desktop app with Zotero integration and human-first review.
 - [GNU Aspell](http://aspell.net/) - Command line spell checker.
 - [Hunspell](http://hunspell.github.io/) - Command line spell checker.
 - [LanguageTool](https://languagetool.org/) - Open source grammar, style and
