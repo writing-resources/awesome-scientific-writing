@@ -36,6 +36,7 @@ document**.
   - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
   - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
+  - [Deepnote](https://github.com/deepnote/vscode-deepnote) - Extension for editing and running Deepnote notebooks locally.
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
   - [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
