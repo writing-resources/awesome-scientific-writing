@@ -82,6 +82,9 @@ Supplementary files and tools.
   tools to do it :link:.
 - [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
+- [latex2arxiv](https://github.com/YuZh98/latex2arxiv) - Command-line tool which converts
+  a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and
+  draft markup, and flags arXiv submission blockers before upload.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
   a superset of CommonMark markdown with reStructuredText like features.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
