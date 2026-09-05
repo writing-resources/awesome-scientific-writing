@@ -20,7 +20,6 @@ document**.
 - [Spell Checking and Linting](#spell-checking-and-linting)
 - [Templates](#templates)
   - [Articles](#articles)
-  - [Presentations](#presentations)
   - [Books](#books)
 - [Tutorials](#tutorials)
 - [Other Lists](#other-lists)
@@ -54,11 +53,13 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
+- [ScholarRef](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
+  (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 - [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
     BibTeX / BibLaTeX integration for Zotero.
-  - [ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
+  - [Zotero OCR](https://github.com/UB-Mannheim/zotero-ocr) - Plugin that makes scanned PDFs searchable using Tesseract OCR and Poppler.
 - [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
 
 ## Illustrations
@@ -85,23 +86,26 @@ Supplementary files and tools.
   tools to do it :link:.
 - [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
+- [Manubot](https://manubot.org/) - Workflow for writing and publishing scholarly manuscripts with Markdown, persistent-identifier citations, and reproducible builds.
+- [latex2arxiv](https://github.com/YuZh98/latex2arxiv) - Command-line tool which converts
+  a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and
+  draft markup, and flags arXiv submission blockers before upload.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
   a superset of CommonMark markdown with reStructuredText like features.
+- [MyST Markdown CLI](https://mystmd.org/) - Command-line tools for building scientific documents from MyST Markdown with citations, cross-references, and HTML, PDF, and Word output.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
 - [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  - [Academic Markdown](https://github.com/smathot/academicmarkdown#readme) - Python wrapper over Pandoc with specialized extensions to parse certain
-    elements, making it a superset of Pandoc Markdown flavour :bookmark:
-    :link:.
   - [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
 - [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
+- [Typst](https://github.com/typst/typst) - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
 
 ## Spell Checking and Linting
 
@@ -129,25 +133,7 @@ Reusable minimalist examples.
 
 ### Articles
 
-- [Pandoc Markdown-LaTeX
-   Boilerplate](https://github.com/davecap/markdown-latex-boilerplate/#readme) - Demonstrate
-   how to integrate Pandoc with an existing LaTeX template which
-   requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
-   `latexmk` dependency.
 - [Paper Templates for GitHub Pages](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
-- [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) - Example
-   for use of Markdown for scientific publications using Pandoc and
-   `latexmk`.
-- [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
-
-
-### Presentations
-
-- [pandoc-starter](https://github.com/jez/pandoc-starter/#readme) - Templates for
-   articles, Beamer presentations etc. using Markdown files and Makefiles for
-   getting started with Pandoc.
-- [slides](https://github.com/cgroll/slides/#readme) - Demo for generating `reveal.js`
-   presentations using Pandoc.
 
 ### Books
 
@@ -171,15 +157,6 @@ How to generate articles and presentations for scientific purposes.
    output.
 - [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
 - [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://blog.devgenius.io/heads-up-quarto-is-here-to-stay-aa861ef87491) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
-- [Katrin Leinweber's Ph.D.
-   thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
-   work flow involving several tools, but primarily Pandoc, `latexmk` and
-   Academic Markdown.
-- [Scott Selisker](https://u.arizona.edu/~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
-- [Teaching and learning with
-   Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
-   written in R Markdown, bookdown and also rendered as HTML, PDF and
-   EPUB.
 - [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 - [Writing scientific papers for ACPD using Emacs
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed
