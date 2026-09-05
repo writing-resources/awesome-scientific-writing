@@ -82,6 +82,7 @@ Supplementary files and tools.
   tools to do it :link:.
 - [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
+- [Manubot](https://manubot.org/) - Workflow for writing and publishing scholarly manuscripts with Markdown, persistent-identifier citations, and reproducible builds.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
   a superset of CommonMark markdown with reStructuredText like features.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
