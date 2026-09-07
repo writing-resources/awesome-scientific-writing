@@ -103,6 +103,10 @@ Supplementary files and tools.
     cross-references.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
+- [Paper Format Agent](https://github.com/zxyasfas/paper_format_agent) - Python
+  tool that reformats academic paper DOCX files to match a format guide, with a
+  content fingerprint that verifies only the formatting changed and the text is
+  left untouched.
 - [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
 - [Typst](https://github.com/typst/typst) - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
 
