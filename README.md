@@ -27,6 +27,7 @@ document**.
 ## Word Processors
 
 - [Marktext](https://github.com/marktext/marktext) - Markdown text editor.
+- [OpenDraft](https://github.com/federicodeponte/opendraft) - Multi-agent engine that drafts full academic papers with citations verified against OpenAlex, Crossref, and Semantic Scholar; exports PDF, Word, and LaTeX.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
