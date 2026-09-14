@@ -115,6 +115,7 @@ Supplementary files and tools.
  spell Checker.
 - [LanguageCheck](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 - [Markdown lint tool](https://github.com/markdownlint/markdownlint) - Markdown linter.
+- [mdformat](https://mdformat.readthedocs.io/en/stable/) - Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.
 - [proselint](https://github.com/amperser/proselint) - Linter for prose.
 - [remarklint](https://github.com/remarkjs/remark-lint) - Markdown linter.
 - [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
