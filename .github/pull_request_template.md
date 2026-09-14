@@ -26,6 +26,6 @@ any. You could try to answer:
 	- [ ] it is **open-source** with appropriate **license**
 - [ ] Table of contents has been updated (if a section is added / removed).
 - [ ] Contents have been sorted alphabetically.
-- [ ] If AI/LLM tools were used to generate the PR description or formatting, I have disclosed the specific tools used (e.g., "Assisted-by: GitHub Copilot").
+- [ ] PR content is written by humans (no AI/LLM use in PR creation)
 
 <!-- NOTE: Please do not skip the template -->

@@ -46,9 +46,8 @@ This is a curated list that values human expertise and judgment. We distinguish
 between two scenarios:
 
 ### 1. Use of LLMs to generate the PR itself
-- AI can assist with drafting the PR description, formatting, or other metadata
-- If AI/LLM tools were used, you must disclose the specific tools in the PR description (e.g., "Assisted-by: GitHub Copilot")
-- Human contributors must verify and take responsibility for all content
+- AI/LLM use in PR creation is not allowed
+- All PR content must be written by humans
 
 ### 2. Use of LLMs to generate code of the tool being listed
 - AI assistance in the tool's development is acceptable only if the tool demonstrates sustained value
