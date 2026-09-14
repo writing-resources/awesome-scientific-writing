@@ -13,7 +13,5 @@ jobs:
       - name: Check for AI attribution and watermarks
         uses: mishan/no-ai-marks@747c07a76d2ad6471fa73779dc8de97fbcb4aefe # v0.1.1
         with:
-          check-commits: true
-          check-pr-body: true
-          check-files: true
+          checks: commits,pr,branch,files
           fail-on: error
