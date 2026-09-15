@@ -119,6 +119,7 @@ Supplementary files and tools.
 - [proselint](https://github.com/amperser/proselint) - Linter for prose.
 - [remarklint](https://github.com/remarkjs/remark-lint) - Markdown linter.
 - [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
+- [rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text
  and Markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
