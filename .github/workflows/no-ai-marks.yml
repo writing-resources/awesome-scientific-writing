@@ -1,0 +1,17 @@
+name: No AI Marks
+
+on: [pull_request]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Check for AI attribution and watermarks
+        uses: mishan/no-ai-marks@747c07a76d2ad6471fa73779dc8de97fbcb4aefe # v0.1.1
+        with:
+          checks: commits,pr,branch,files
+          fail-on: error
