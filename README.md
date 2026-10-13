@@ -81,6 +81,7 @@ Supplementary files and tools.
 
 - [Cicero](https://cicero.xyz/) - Python package which renders HTML presentations
   from Markdown source using remark or reveal.js :link:.
+- [credit-matrix](https://github.com/simonvanlierde/credit-matrix) - Generates a Contributor Roles Taxonomy (CRediT) statement from document front matter via Quarto and MyST plugins.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
   convert reStructuredText into various formats and provides command-line
   tools to do it :link:.
