@@ -48,6 +48,7 @@ document**.
 
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
+- [BiblioAudit](https://github.com/Official-Satyam-Tiwari/Reference-Architect) - Command-line tool to check, verify, and correct citation metadata in BibTeX files across 12+ academic databases.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
