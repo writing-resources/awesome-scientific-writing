@@ -175,3 +175,5 @@ How to generate articles and presentations for scientific purposes.
 ### Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- [HumanPen](https://humanpen.net/) - Document-level academic writing, translation (12 target languages), DOCX condensation, citation format correction (12 styles), and scoped research project support (100 signup credits; commercial credit-based pricing).
