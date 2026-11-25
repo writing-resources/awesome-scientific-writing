@@ -52,6 +52,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 - [citecheck](https://github.com/tobiasosDev/citecheck) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
+- [CiteGuard MCP](https://github.com/Lukecele/citeguard-mcp) - Command-line tool and Model Context Protocol (MCP) server that verifies DOIs, PubMed PMIDs, and arXiv IDs, detects LLM chimera metadata hallucinations and retracted papers, and generates verified BibTeX across Crossref, DataCite, PubMed, OpenAlex, and arXiv.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [ScholarRef](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
   (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
