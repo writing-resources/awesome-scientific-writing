@@ -26,6 +26,7 @@ document**.
 
 ## Word Processors
 
+- [Lixity](https://lixity.de/) - Local manuscript analysis for writers and editors, covering sentence rhythm, word echoes, and dialogue proportions. Offline, open source.
 - [Marktext](https://github.com/marktext/marktext) - Markdown text editor.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
